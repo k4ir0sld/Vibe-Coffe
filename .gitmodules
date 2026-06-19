@@ -1,0 +1,12 @@
+[submodule "VibeCoffee-BackEnd-ADM"]
+	path = VibeCoffee-BackEnd-ADM
+	url = https://github.com/Cosme-CR/VibeCoffee-BackEnd-ADM.git
+[submodule "Front-end-VibeCoffee-ADM"]
+	path = Front-end-VibeCoffee-ADM
+	url = https://github.com/Vitorisidio/Front-end-VibeCoffee-ADM.git
+[submodule "back-api-vibecoffee-landingpage"]
+	path = back-api-vibecoffee-landingpage
+	url = https://github.com/Cosme-CR/back-api-vibecoffee-landingpage.git
+[submodule "Front-end-VibeCoffee-landing-page"]
+	path = Front-end-VibeCoffee-landing-page
+	url = https://github.com/Vitorisidio/Front-end-VibeCoffee-landing-page.git
