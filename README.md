@@ -97,6 +97,24 @@ Responsável pela modelagem conceitual, lógica e física do banco de dados MySQ
 
 ---
 
+Protótipos (Figma)
+
+Os protótipos de interface do sistema foram desenvolvidos no Figma, com foco em usabilidade, responsividade e identidade visual da marca Vibe Coffee.
+
+Landing Page (Área Pública)
+
+Protótipo da página inicial voltada para os clientes, apresentando a cafeteria, produtos em destaque e navegação do catálogo.
+
+🔗 Link para o protótipo: [INSERIR LINK DO FIGMA - LANDING PAGE]
+
+Painel Administrativo (Gestor / Administrador)
+
+Protótipo da área administrativa responsável pelo gerenciamento do sistema, incluindo cadastro, edição e controle dos produtos.
+
+🔗 Link para o protótipo (Administrador/Gestor): [INSERIR LINK DO FIGMA - PAINEL ADMIN]
+
+-----
+
 ## Documentação
 
 Este repositório contém:
