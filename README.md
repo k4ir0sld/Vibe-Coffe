@@ -75,43 +75,30 @@ Este projeto está dividido em múltiplos repositórios:
 
 Responsável pela interface voltada aos clientes da cafeteria.
 
-🔗 Link: [Adicionar URL]
+🔗 Link: https://github.com/Vitorisidio/Front-end-LP
 
 ### Frontend - Painel Administrativo
 
 Responsável pela interface de gerenciamento dos produtos e categorias.
 
-🔗 Link: [Adicionar URL]
+🔗 Link: https://github.com/Vitorisidio/Front-end-ADM
 
 ### Backend / API REST
 
 Responsável pelas regras de negócio, autenticação, integração com banco de dados e disponibilização dos endpoints.
 
-🔗 Link: [Adicionar URL]
+🔗 Link: https://github.com/Cosme-CR/Back-End-API-ADM  ///  https://github.com/Cosme-CR/Back-End-API-LP
 
-### Banco de Dados
-
-Responsável pela modelagem conceitual, lógica e física do banco de dados MySQL.
-
-🔗 Link: [Adicionar URL]
 
 ---
 
-Protótipos (Figma)
+Protótipos (Figma) 
 
 Os protótipos de interface do sistema foram desenvolvidos no Figma, com foco em usabilidade, responsividade e identidade visual da marca Vibe Coffee.
 
-Landing Page (Área Pública)
+Landing Page (Área Pública) Painel Administrativo (Gestor / Administrador)
 
-Protótipo da página inicial voltada para os clientes, apresentando a cafeteria, produtos em destaque e navegação do catálogo.
-
-🔗 Link para o protótipo: [INSERIR LINK DO FIGMA - LANDING PAGE]
-
-Painel Administrativo (Gestor / Administrador)
-
-Protótipo da área administrativa responsável pelo gerenciamento do sistema, incluindo cadastro, edição e controle dos produtos.
-
-🔗 Link para o protótipo (Administrador/Gestor): [INSERIR LINK DO FIGMA - PAINEL ADMIN]
+🔗 Link para o protótipo: https://www.figma.com/design/Vqba26IquJr4RL4xsKWaPn?node-id=0-1
 
 -----
 
